@@ -4,30 +4,30 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 	int a;
-	cout << "Ââåäèòå íîìåð äíÿ íåäåëè" << endl;
+	cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã­Ã®Ã¬Ã¥Ã° Ã¤Ã­Ã¿ Ã­Ã¥Ã¤Ã¥Ã«Ã¨" << endl;
 	cin >> a;
 	switch (a)
 	{
 	case 1:
-		cout << " Ýòî ïîíåäåëüíèê" << endl;
+			cout << " ÃÃ²Ã® Ã¯Ã®Ã­Ã¥Ã¤Ã¥Ã«Ã¼Ã­Ã¨Ãª" << endl;
 		break;
 	case 2:
-		cout << " Ýòî âòîðíèê" << endl;
+		cout << " ÃÃ²Ã® Ã¢Ã²Ã®Ã°Ã­Ã¨Ãª" << endl;
 		break;
 	case 3:
-		cout << " Ýòî ñðåäà" << endl;
+		cout << " ÃÃ²Ã® Ã±Ã°Ã¥Ã¤Ã " << endl;
 		break;
 	case 4:
-		cout << " Ýòî ÷åòâåðã" << endl;
+		cout << " ÃÃ²Ã® Ã·Ã¥Ã²Ã¢Ã¥Ã°Ã£" << endl;
 		break;
 	case 5:
-		cout << " Ýòî ïÿòíèöà" << endl;
+		cout << " ÃÃ²Ã® Ã¯Ã¿Ã²Ã­Ã¨Ã¶Ã " << endl;
 		break;
 	case 6:
-		cout << " Ýòî cóááîòà" << endl;
+		cout << " ÃÃ²Ã® cÃ³Ã¡Ã¡Ã®Ã²Ã " << endl;
 		break;
 	case 7:
-		cout << " Ýòî âîñêðåñåíüå" << endl;
+		cout << " ÃÃ²Ã® Ã¢Ã®Ã±ÃªÃ°Ã¥Ã±Ã¥Ã­Ã¼Ã¥" << endl;
 		break;
 	}
 	system("pause");
