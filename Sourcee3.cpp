@@ -4,9 +4,9 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 	int m = 0, k = 0, c = 1;
-	cout << "Ââåäèòå ïåðâîå ÷èñëî" << endl;
+	cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã¯Ã¥Ã°Ã¢Ã®Ã¥ Ã·Ã¨Ã±Ã«Ã®" << endl;
 	cin >> m;
-	cout << "Ââåäèòå âòîðîå ÷èñëî" << endl;
+	cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã¢Ã²Ã®Ã°Ã®Ã¥ Ã·Ã¨Ã±Ã«Ã®" << endl;
 	cin >> k;
 
 	while ((m / c) >= 1)
