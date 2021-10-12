@@ -4,7 +4,7 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 	int a, b, c;
-	cout << "Ââåäèòå òðåõçíà÷íîå ÷èñëî: ";
+	cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã²Ã°Ã¥ÃµÃ§Ã­Ã Ã·Ã­Ã®Ã¥ Ã·Ã¨Ã±Ã«Ã®: ";
 	cin >> a;
 	while (a)
 	{
@@ -14,4 +14,5 @@ int main()
 	}
 	system("pause");
 	return 0;
+	
 }
